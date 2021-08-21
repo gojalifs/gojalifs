@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter and AWS Cloud Practition
 - 📫 How to reach me ...
 -     telegram  : @fajar_sidik73
--     email     : Fajarsidik1999@gmial.com
+-     email     : Fajarsidik1999@gmail.com
 
 <!---
 gojalifs/gojalifs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
