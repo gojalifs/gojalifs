@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter and Laravel 9
 - 📫 How to reach me ...
      - telegram  : https://t.me/fajar_sidik73
-     - email     : Fajarsidik1999@gmail.com
+     - email     : Fajarsidikprasetio@gmail.com
      - LinkedIn  : https://www.linkedin.com/in/fajarsidik73
 
 <!---
