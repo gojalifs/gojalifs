@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fajar Sidik Prasetio, you can call me Fajar
-- 👀 I’m interested in mobile programming, especially FLUTTER
-- 🌱 I’m currently learning Flutter and Laravel 9
+- 👀 I’m interested in Mobile Programming
+- 🌱 Keep learn on everything 
 - 📫 How to reach me ...
      - telegram  : https://t.me/fajar_sidik73
      - email     : Fajarsidikprasetio@gmail.com
